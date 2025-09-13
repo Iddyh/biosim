@@ -1,0 +1,5 @@
+{
+  "name": "BioSim AI",
+  "description": "An AI-powered biology simulation generator using Gemini to create interactive images and videos for educational purposes.",
+  "requestFramePermissions": []
+}
